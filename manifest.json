@@ -1,0 +1,13 @@
+{
+  "short_name": "测试测试",
+  "name": "这是一个测试",
+  "icons": [
+    {
+      "src": "avatar.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
